@@ -27,14 +27,6 @@ State management using Context API.
 - #### **React Swiper**
 - #### **SASS**
 
-<br/>
-
-## Author:
-
-- **Gulshan Songara** - **[Portfolio Website](https://gulshansongara.netlify.app)**, **[Linkedin](https://www.linkedin.com/in/gulshan-songara/)**
-
-<br/>
-
 ## Available Scripts
 
 #### `npm start`
